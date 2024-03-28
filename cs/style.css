@@ -1,0 +1,33 @@
+body {
+    background-color: #eaf6f6;
+  }
+  
+  hr {
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 15%;
+   
+  }
+  h1 ,h3,h4 {
+    color: #52a7a7;
+    
+  }
+ 
+  a{
+    color: brown;
+    text-decoration: none;
+  }
+  .xyz{
+    background-color: rgb(206, 238, 247);
+    padding: 30px 50px;
+    margin:20px -10px ;
+  }
+  .abc{
+    background-color: #eaf6f6;
+    padding: 30px 50px;
+
+  }
+
+  
